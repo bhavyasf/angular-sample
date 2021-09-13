@@ -1,0 +1,32 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+@import '~@syncfusion/ej2-base/styles/material.css';
+@import '~@syncfusion/ej2-buttons/styles/material.css';
+@import '~@syncfusion/ej2-inputs/styles/material.css';
+@import '~@syncfusion/ej2-popups/styles/material.css';
+@import '~@syncfusion/ej2-lists/styles/material.css';
+@import '~@syncfusion/ej2-splitbuttons/styles/material.css';
+@import '~@syncfusion/ej2-calendars/styles/material.css';
+@import '~@syncfusion/ej2-angular-calendars/styles/material.css';
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  margin: 0;
+}
+.basic-container {
+  padding: 30px;
+}
+.version-info {
+  font-size: 8pt;
+  float: right;
+  margin: 8px;
+}
+
+.mat-dialog-container {
+  position: absolute;
+}
+
+
+/**  Copyright 2019 Google LLC. All Rights Reserved.
+    Use of this source code is governed by an MIT-style license that
+    can be found in the LICENSE file at http://angular.io/license */
