@@ -2,6 +2,15 @@
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
+  "styles": [
+     "node_modules/ej2-buttons/styles/material.css",
+     "node_modules/ej2-inputs/styles/material.css",
+     "node_modules/ej2-popups/styles/material.css",
+     "node_modules/ej@2-lists/styles/material.css",
+     "node_modules/ej2-splitbuttons/styles/material.css",
+     "node_modules/ej2-calendars/styles/material.css",
+     "node_modules/ej2-angular-calendars/styles/material.css"
+  ],
   "projects": {
     "material-aio-example": {
       "root": "",
